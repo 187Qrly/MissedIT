@@ -102,7 +102,7 @@ To check for upate enter Bellow command
 ```bash
 ./update
 ```
-If The update is availabel but the cheat is not updateing then try bellow command
+If The update is availabe but the cheat is not updateing then try bellow command
 ```bash
 ./update-force
 ``` 
